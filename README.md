@@ -2,14 +2,14 @@
 
 # Hi, I'm Syed Miqdad Hamdani 👋
 
-### Aspiring Data Analyst | Business Intelligence & Business Analysis
+### Junior Data Professional | Excel, Data Quality, SQL & Reporting
 
-I turn raw data into clear, decision-ready insights using **SQL, Excel, Python, statistics and data visualisation**.
+I turn raw information into accurate, decision-ready reports using **Excel, SQL and Python**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-miqdad-hamdani/)
 [![Email](https://img.shields.io/badge/Email-Contact-4B5563?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:miqdad_hamdani@outlook.com)
 
-📍 United Kingdom · 🎯 Open to entry-level **Data Analyst, BI Analyst and Business Analyst** opportunities
+📍 United Kingdom · Open to junior **Data Administration, Reporting and Data Analyst** opportunities
 
 </div>
 
@@ -17,93 +17,74 @@ I turn raw data into clear, decision-ready insights using **SQL, Excel, Python, 
 
 ## About me
 
-I'm an early-career analyst who enjoys finding the story behind a dataset and presenting it in a way that people can act on. My portfolio spans spreadsheet dashboards, relational data cleaning, advanced SQL analysis, and an end-to-end Python research project comparing the behaviour of leading conversational AI models.
+I'm an early-career data professional who enjoys turning detailed information into reliable reports that people can use. My completed projects demonstrate spreadsheet reporting, data-quality checks, SQL cleaning and analysis, and a reproducible Python research workflow. I have also completed my MSc dissertation and am awaiting the results.
 
-My approach is simple: **understand the question → prepare trustworthy data → analyse it carefully → communicate what matters**.
+My approach is simple: **understand the request → check the data → resolve inconsistencies → report clearly**.
 
 ## Featured projects
 
-### 🧠 [The Linguistic Influence Matrix](https://github.com/miqyd0104/Prompt-Sensitivity-Project)
+### 📦 [Ecommerce Stock and Order Control](https://github.com/miqyd0104/Ecommerce-Stock-and-Order-Control-Excel)
 
-An end-to-end empirical study of how semantically equivalent prompt wording changes responses from ChatGPT, Claude and Gemini.
+A formula-driven Excel control workbook using synthetic ecommerce data to validate orders, reconcile stock and maintain an exception-led operational report.
 
-- Designed a study of **1,000 prompts across 5 domains and 3 models**, producing 2,984 valid responses.
-- Built a reproducible Python workflow for data preparation, NLP feature engineering, statistical testing and robustness analysis.
-- Used **pandas, NumPy, SciPy, scikit-learn, statsmodels, Matplotlib and Seaborn**.
-- Produced **12 publication-ready figures** and 27 result tables, with transparent methodology and interpretation limits.
+- Processed **100 order records across 40 products**, separating 95 clean records from five order exceptions before reporting.
+- Used `INDEX/MATCH`, `SUMIFS` and `COUNTIFS` to retrieve prices, reconcile fulfilled quantities and detect duplicates or invalid SKUs.
+- Compared calculated closing stock with system balances, identifying five variances and four reorder items.
+- Added data validation, conditional formatting, a linked exception log and a weekly operational dashboard.
 
-`Python` `pandas` `NLP` `Statistical Analysis` `Data Visualisation` `Research Design` `Reproducibility`
+`Excel` `Stock Data` `Order Data` `Data Quality` `Reconciliation` `INDEX/MATCH` `SUMIFS` `COUNTIFS` `Exception Reporting`
 
 ### 🚲 [Bike Sales Excel Dashboard](https://github.com/miqyd0104/Bike-Sales-Excel-Dashboard-Project)
 
-An interactive Excel dashboard exploring how income, age, commute distance and customer demographics relate to bike purchases.
+An interactive Excel report that turns raw customer records into a clean, filterable view of bike-purchasing patterns.
 
-- Cleaned and standardised customer data while preserving the original dataset.
+- Reduced **1,026 raw rows to 1,000 unique records** by identifying and removing 26 duplicate rows.
+- Standardised categorical values, checked for blanks and preserved the raw data alongside the working dataset.
 - Created age brackets with nested IF statements.
-- Built PivotTables, PivotCharts and interactive slicers for self-service analysis.
-- Translated customer data into clear commercial questions and visual insights.
+- Built three PivotTables, three PivotCharts and slicers for marital status, region and education.
+- Documented the workflow, checks and descriptive findings in a clear project README.
 
-`Excel` `Data Cleaning` `PivotTables` `PivotCharts` `Slicers` `Dashboard Design`
+`Excel` `Data Cleaning` `Data Quality` `Nested IF` `PivotTables` `PivotCharts` `Slicers` `Reporting`
 
 ### 📉 Global Layoffs: MySQL Cleaning & Analysis
 
 A two-stage SQL workflow that prepares a real-world layoffs dataset and investigates company, industry, country and time-based trends.
 
-- [Data cleaning project](https://github.com/miqyd0104/Layoffs-Data-Cleaning-in-MySQL-Project): staging tables, duplicate removal, standardisation, null handling and date conversion.
-- [Exploratory analysis project](https://github.com/miqyd0104/Layoffs-Exploratory-Data-Analysis-in-MySQL): aggregations, CTEs, window functions, rolling totals and yearly rankings.
-- Demonstrates a complete path from messy source data to decision-ready findings.
+- [Data cleaning project](https://github.com/miqyd0104/Layoffs-Data-Cleaning-in-MySQL-Project): used staging tables, duplicate removal, standardisation, null handling and date conversion to prepare reliable data.
+- [Exploratory analysis project](https://github.com/miqyd0104/Layoffs-Exploratory-Data-Analysis-in-MySQL): used aggregations, CTEs, window functions, rolling totals and yearly rankings to produce structured findings.
+- Demonstrates a traceable path from a messy source file to analysis-ready data and documented outputs.
 
-`MySQL` `CTEs` `JOINs` `Window Functions` `Data Quality` `Trend Analysis` `Business Insights`
+`MySQL` `CTEs` `Window Functions` `Data Cleaning` `Data Quality` `Trend Analysis`
 
-## Skills demonstrated in my projects
+### 🧠 [The Linguistic Influence Matrix](https://github.com/miqyd0104/Prompt-Sensitivity-Project)
 
-| Area | Tools and methods | Evidence |
-|---|---|---|
-| Data analysis | Exploratory analysis, trend analysis, KPI thinking, descriptive and inferential statistics | Python research and MySQL EDA |
-| SQL | MySQL, joins, CTEs, aggregations, window functions, ranking and rolling totals | Global layoffs projects |
-| Spreadsheets | Excel formulas, nested IFs, PivotTables, PivotCharts and slicers | Bike sales dashboard |
-| Python | pandas, NumPy, SciPy, scikit-learn and statsmodels | Prompt-sensitivity study |
-| Data visualisation | Matplotlib, Seaborn, Excel dashboards and insight communication | Research figures and dashboard |
-| Data preparation | Deduplication, standardisation, missing-value handling, validation and transformation | All four repositories |
-| Analytical practice | Research design, reproducible workflows, documentation, quality checks and responsible interpretation | Prompt-sensitivity study |
+An end-to-end empirical study of how semantically equivalent prompt wording changes responses from ChatGPT, Claude and Gemini.
 
-## Capability roadmap
+- Designed a study of **1,000 prompts across five domains and three models**, producing 2,984 valid responses.
+- Built a reproducible Python workflow for data preparation, NLP feature engineering, statistical testing and robustness analysis.
+- Used pandas, NumPy, SciPy, scikit-learn, statsmodels, Matplotlib and Seaborn.
+- Produced 12 publication-ready figures and 27 result tables with documented methodology and interpretation limits.
 
-I'm actively expanding my portfolio around the tools and methods most often used in data, BI and business-analysis teams. Items below are **development goals**, not claims of completed project experience.
+`Python` `pandas` `Data Validation` `Statistical Analysis` `Data Visualisation` `Documentation` `Reproducibility`
 
-### Data & BI
+## Evidence at a glance
 
-- [ ] Power BI: Power Query, data modelling, DAX, interactive dashboards and KPI reporting
-- [ ] Tableau: calculated fields, dashboard actions and data storytelling
-- [ ] Advanced Excel: XLOOKUP, INDEX/MATCH, Power Query, data models and automation
-- [ ] SQL: query optimisation, views, stored procedures and database design
-- [ ] Python: automated reporting, APIs, ETL pipelines and forecasting
-- [ ] R fundamentals for statistical analysis and reporting
-- [ ] Data modelling: star schemas, fact/dimension tables and data dictionaries
-- [ ] Microsoft Fabric / Azure fundamentals and cloud-based analytics workflows
-- [ ] Data governance, privacy, quality controls and accessible visualisation
-
-### Business analysis
-
-- [ ] Stakeholder analysis, interviews, workshops and requirements elicitation
-- [ ] Functional and non-functional requirements, user stories and acceptance criteria
-- [ ] Current-state / future-state analysis, gap analysis and options appraisal
-- [ ] Process mapping with flowcharts, swimlanes and BPMN
-- [ ] Business cases, benefits, costs, risks and success measures
-- [ ] Agile, Scrum, Kanban and Waterfall delivery fundamentals
-- [ ] UAT planning, traceability and controlled requirements change
-- [ ] Jira, Confluence, Microsoft Visio and Power Automate
+| Area | Completed evidence |
+|---|---|
+| Excel reporting | INDEX/MATCH, SUMIFS, COUNTIFS, nested IF statements, PivotTables, PivotCharts, slicers and operational dashboards |
+| Stock and order controls | Reconciliation, duplicate-ID checks, SKU validation, reorder flags, exception logging and clean-record reporting |
+| Data quality | Duplicate checks, standardisation, missing-value checks, validation and preservation of raw data |
+| SQL | MySQL staging tables, joins, CTEs, aggregations, window functions, rankings and rolling totals |
+| Reporting | Structured dashboard outputs, result tables, charts and clear written documentation |
+| Python | pandas, NumPy, SciPy, scikit-learn, statsmodels, Matplotlib and Seaborn |
+| Analytical practice | Reproducible workflows, robustness checks, transparent assumptions and responsible interpretation |
 
 ## What I bring
 
-- **Analytical curiosity** — I ask why a pattern exists, not only what the chart shows.
-- **Attention to data quality** — I document assumptions, validate outputs and make limitations visible.
-- **Business-focused communication** — I frame analysis around questions, decisions, KPIs and outcomes.
-- **Continuous learning** — every new portfolio project is designed to close a specific workplace skill gap.
-
-## Next portfolio project
-
-A Power BI project covering **Power Query, star-schema modelling, DAX measures, KPI design and an interactive executive dashboard**.
+- **Accuracy and attention to detail** — I check duplicates, missing values, formats and output consistency before reporting results.
+- **Analytical problem-solving** — I investigate patterns and discrepancies methodically and document what I find.
+- **Clear communication** — I translate detailed analysis into practical reports, visuals and concise explanations.
+- **Organisation** — I keep raw data, working data, methods and outputs clearly separated so the work can be followed and checked.
 
 ---
 
@@ -111,9 +92,8 @@ A Power BI project covering **Power Query, star-schema modelling, DAX measures, 
 
 ### Let's connect
 
-I'm open to entry-level opportunities across the UK where I can contribute, learn from an experienced team and turn data into better decisions.
+I'm open to junior data opportunities where I can support accurate reporting, strengthen data processes and learn from an experienced team.
 
 [LinkedIn](https://www.linkedin.com/in/syed-miqdad-hamdani/) · [Email](mailto:miqdad_hamdani@outlook.com) · [View my repositories](https://github.com/miqyd0104?tab=repositories)
 
 </div>
-
