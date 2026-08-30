@@ -9,7 +9,7 @@ I turn raw information into accurate, decision-ready reports using **Excel, SQL 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-miqdad-hamdani/)
 [![Email](https://img.shields.io/badge/Email-Contact-4B5563?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:miqdad_hamdani@outlook.com)
 
-📍 United Kingdom · Open to junior **Data Administration, Reporting and Data Analyst** opportunities
+📍 United Kingdom · Open to junior opportunities in **data administration, reporting and data analysis**
 
 </div>
 
@@ -69,7 +69,7 @@ An end-to-end empirical study of how semantically equivalent prompt wording chan
 
 ## Evidence at a glance
 
-| Area | Completed evidence |
+| Area | Evidence |
 |---|---|
 | Excel reporting | INDEX/MATCH, SUMIFS, COUNTIFS, nested IF statements, PivotTables, PivotCharts, slicers and operational dashboards |
 | Stock and order controls | Reconciliation, duplicate-ID checks, SKU validation, reorder flags, exception logging and clean-record reporting |
