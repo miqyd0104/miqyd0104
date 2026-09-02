@@ -1,99 +1,84 @@
-<div align="center">
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Abstract data analytics landscape with charts, tables and connected databases" width="100%">
+</p>
 
-# Hi, I'm Syed Miqdad Hamdani 👋
+<h1 align="center">Syed Miqdad Hamdani</h1>
 
-### Junior Data Professional | Excel, Data Quality, SQL & Reporting
+<p align="center"><strong>Junior Data Analyst · Power BI · SQL · Excel · Python</strong></p>
 
-I turn raw information into accurate, decision-ready reports using **Excel, SQL and Python**.
+<p align="center">I turn raw data into accurate, decision-ready analysis through clear dashboards, reliable data workflows and concise reporting.</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-miqdad-hamdani/)
-[![Email](https://img.shields.io/badge/Email-Contact-4B5563?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:miqdad_hamdani@outlook.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-miqdad-hamdani/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn"></a>
+  <a href="mailto:miqdad_hamdani@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email me"></a>
+</p>
 
-📍 United Kingdom · Open to junior opportunities in **data administration, reporting and data analysis**
+<p align="center">United Kingdom · Open to junior Data Analyst, Reporting Analyst and BI Analyst opportunities</p>
 
-</div>
+## Profile
 
----
+I am an early-career data professional focused on turning detailed, imperfect information into reports people can trust. My portfolio covers business-intelligence dashboards, operational Excel controls, MySQL data cleaning and analysis, and reproducible Python research.
 
-## About me
+I work across the full analytical cycle: understanding the question, validating and transforming the data, investigating patterns, checking the result, and communicating the answer clearly. Each featured repository includes the working files, methodology, findings and limitations—not just a finished screenshot.
 
-I'm an early-career data professional who enjoys turning detailed information into reliable reports that people can use. My completed projects demonstrate spreadsheet reporting, data-quality checks, SQL cleaning and analysis, and a reproducible Python research workflow. I have also completed my MSc dissertation and am awaiting the results.
+## Selected Projects
 
-My approach is simple: **understand the request → check the data → resolve inconsistencies → report clearly**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/miqyd0104/power-bi-data-professional-survey"><img src="https://raw.githubusercontent.com/miqyd0104/power-bi-data-professional-survey/main/assets/dashboard-preview.png" alt="Power BI Data Professional Survey dashboard" width="100%"></a>
+      <h3><a href="https://github.com/miqyd0104/power-bi-data-professional-survey">Power BI Data Professional Survey</a></h3>
+      <p>Transformed 630 survey responses with Power Query and built an interactive one-page report covering roles, salary estimates, geography, programming-language preferences and satisfaction. A guided learning project with full source attribution.</p>
+      <p><strong>Tools:</strong> Power BI · Power Query · Excel</p>
+      <p><a href="https://github.com/miqyd0104/power-bi-data-professional-survey">View project →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/miqyd0104/Ecommerce-Stock-and-Order-Control-Excel"><img src="https://raw.githubusercontent.com/miqyd0104/Ecommerce-Stock-and-Order-Control-Excel/main/assets/dashboard-preview.png" alt="Excel Ecommerce Stock and Order Control dashboard" width="100%"></a>
+      <h3><a href="https://github.com/miqyd0104/Ecommerce-Stock-and-Order-Control-Excel">Ecommerce Stock &amp; Order Control</a></h3>
+      <p>Built a formula-driven Excel control workbook for 100 synthetic orders across 40 products. It validates records, isolates exceptions, reconciles stock and flags variances and reorder items before reporting.</p>
+      <p><strong>Tools:</strong> Excel · INDEX/MATCH · SUMIFS · COUNTIFS</p>
+      <p><a href="https://github.com/miqyd0104/Ecommerce-Stock-and-Order-Control-Excel">View project →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/miqyd0104/Layoffs-Exploratory-Data-Analysis-in-MySQL"><img src="https://raw.githubusercontent.com/miqyd0104/Layoffs-Exploratory-Data-Analysis-in-MySQL/main/screenshots/rolling_total_layoffs.png" alt="MySQL rolling layoffs analysis and result table" width="100%"></a>
+      <h3><a href="https://github.com/miqyd0104/Layoffs-Exploratory-Data-Analysis-in-MySQL">Global Layoffs: MySQL Workflow</a></h3>
+      <p>Created a two-stage workflow from <a href="https://github.com/miqyd0104/Layoffs-Data-Cleaning-in-MySQL-Project">data cleaning</a> to exploratory analysis, using CTEs, window functions, rolling totals and yearly rankings to investigate company, industry, country and time trends.</p>
+      <p><strong>Tools:</strong> MySQL · CTEs · Window functions · Data quality</p>
+      <p><a href="https://github.com/miqyd0104/Layoffs-Exploratory-Data-Analysis-in-MySQL">View analysis →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/miqyd0104/Prompt-Sensitivity-Project"><img src="https://raw.githubusercontent.com/miqyd0104/Prompt-Sensitivity-Project/main/assets/readme/prompt-sensitivity-pipeline.png" alt="Prompt-sensitivity research workflow from model responses to statistical outputs" width="100%"></a>
+      <h3><a href="https://github.com/miqyd0104/Prompt-Sensitivity-Project">The Linguistic Influence Matrix</a></h3>
+      <p>Designed a reproducible study of 1,000 prompt variants across three LLMs, producing 2,984 valid responses, robustness checks, 12 figures and 27 result tables.</p>
+      <p><strong>Tools:</strong> Python · pandas · SciPy · scikit-learn · statsmodels</p>
+      <p><a href="https://github.com/miqyd0104/Prompt-Sensitivity-Project">View research project →</a></p>
+    </td>
+  </tr>
+</table>
 
-## Featured projects
+## Analytical Toolkit
 
-### 📦 [Ecommerce Stock and Order Control](https://github.com/miqyd0104/Ecommerce-Stock-and-Order-Control-Excel)
+| Area | Tools and demonstrated practice |
+| --- | --- |
+| Business intelligence | Power BI, Power Query, KPI design, interactive filtering and visual storytelling |
+| Spreadsheet reporting | Excel, PivotTables, PivotCharts, slicers, lookup and aggregation formulas, validation and operational controls |
+| SQL | MySQL, joins, staging tables, CTEs, window functions, rankings and rolling totals |
+| Python analysis | pandas, NumPy, SciPy, scikit-learn, statsmodels, Matplotlib and Seaborn |
+| Data practice | Cleaning, quality checks, reconciliation, exploratory analysis, reproducibility and clear documentation |
 
-A formula-driven Excel control workbook using synthetic ecommerce data to validate orders, reconcile stock and maintain an exception-led operational report.
+## More Work
 
-- Processed **100 order records across 40 products**, separating 95 clean records from five order exceptions before reporting.
-- Used `INDEX/MATCH`, `SUMIFS` and `COUNTIFS` to retrieve prices, reconcile fulfilled quantities and detect duplicates or invalid SKUs.
-- Compared calculated closing stock with system balances, identifying five variances and four reorder items.
-- Added data validation, conditional formatting, a linked exception log and a weekly operational dashboard.
-
-`Excel` `Stock Data` `Order Data` `Data Quality` `Reconciliation` `INDEX/MATCH` `SUMIFS` `COUNTIFS` `Exception Reporting`
-
-### 🚲 [Bike Sales Excel Dashboard](https://github.com/miqyd0104/Bike-Sales-Excel-Dashboard-Project)
-
-An interactive Excel report that turns raw customer records into a clean, filterable view of bike-purchasing patterns.
-
-- Reduced **1,026 raw rows to 1,000 unique records** by identifying and removing 26 duplicate rows.
-- Standardised categorical values, checked for blanks and preserved the raw data alongside the working dataset.
-- Created age brackets with nested IF statements.
-- Built three PivotTables, three PivotCharts and slicers for marital status, region and education.
-- Documented the workflow, checks and descriptive findings in a clear project README.
-
-`Excel` `Data Cleaning` `Data Quality` `Nested IF` `PivotTables` `PivotCharts` `Slicers` `Reporting`
-
-### 📉 Global Layoffs: MySQL Cleaning & Analysis
-
-A two-stage SQL workflow that prepares a real-world layoffs dataset and investigates company, industry, country and time-based trends.
-
-- [Data cleaning project](https://github.com/miqyd0104/Layoffs-Data-Cleaning-in-MySQL-Project): used staging tables, duplicate removal, standardisation, null handling and date conversion to prepare reliable data.
-- [Exploratory analysis project](https://github.com/miqyd0104/Layoffs-Exploratory-Data-Analysis-in-MySQL): used aggregations, CTEs, window functions, rolling totals and yearly rankings to produce structured findings.
-- Demonstrates a traceable path from a messy source file to analysis-ready data and documented outputs.
-
-`MySQL` `CTEs` `Window Functions` `Data Cleaning` `Data Quality` `Trend Analysis`
-
-### 🧠 [The Linguistic Influence Matrix](https://github.com/miqyd0104/Prompt-Sensitivity-Project)
-
-An end-to-end empirical study of how semantically equivalent prompt wording changes responses from ChatGPT, Claude and Gemini.
-
-- Designed a study of **1,000 prompts across five domains and three models**, producing 2,984 valid responses.
-- Built a reproducible Python workflow for data preparation, NLP feature engineering, statistical testing and robustness analysis.
-- Used pandas, NumPy, SciPy, scikit-learn, statsmodels, Matplotlib and Seaborn.
-- Produced 12 publication-ready figures and 27 result tables with documented methodology and interpretation limits.
-
-`Python` `pandas` `Data Validation` `Statistical Analysis` `Data Visualisation` `Documentation` `Reproducibility`
-
-## Evidence at a glance
-
-| Area | Evidence |
-|---|---|
-| Excel reporting | INDEX/MATCH, SUMIFS, COUNTIFS, nested IF statements, PivotTables, PivotCharts, slicers and operational dashboards |
-| Stock and order controls | Reconciliation, duplicate-ID checks, SKU validation, reorder flags, exception logging and clean-record reporting |
-| Data quality | Duplicate checks, standardisation, missing-value checks, validation and preservation of raw data |
-| SQL | MySQL staging tables, joins, CTEs, aggregations, window functions, rankings and rolling totals |
-| Reporting | Structured dashboard outputs, result tables, charts and clear written documentation |
-| Python | pandas, NumPy, SciPy, scikit-learn, statsmodels, Matplotlib and Seaborn |
-| Analytical practice | Reproducible workflows, robustness checks, transparent assumptions and responsible interpretation |
-
-## What I bring
-
-- **Accuracy and attention to detail** — I check duplicates, missing values, formats and output consistency before reporting results.
-- **Analytical problem-solving** — I investigate patterns and discrepancies methodically and document what I find.
-- **Clear communication** — I translate detailed analysis into practical reports, visuals and concise explanations.
-- **Organisation** — I keep raw data, working data, methods and outputs clearly separated so the work can be followed and checked.
+- [Bike Sales Excel Dashboard](https://github.com/miqyd0104/Bike-Sales-Excel-Dashboard-Project) — cleaned 1,026 customer rows into 1,000 validated records and built a filterable dashboard using PivotTables, PivotCharts and slicers.
+- [Explore all repositories](https://github.com/miqyd0104?tab=repositories) — working files, documented methods and project outputs across Power BI, SQL, Excel and Python.
 
 ---
 
-<div align="center">
+<p align="center"><strong>Looking for a junior analyst who values accuracy, traceability and clear communication?</strong></p>
 
-### Let's connect
-
-I'm open to junior data opportunities where I can support accurate reporting, strengthen data processes and learn from an experienced team.
-
-[LinkedIn](https://www.linkedin.com/in/syed-miqdad-hamdani/) · [Email](mailto:miqdad_hamdani@outlook.com) · [View my repositories](https://github.com/miqyd0104?tab=repositories)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-miqdad-hamdani/">Connect on LinkedIn</a> ·
+  <a href="mailto:miqdad_hamdani@outlook.com">Send an email</a> ·
+  <a href="https://github.com/miqyd0104?tab=repositories">View all projects</a>
+</p>
