@@ -68,14 +68,6 @@ I work across the full analytical cycle: understanding the question, validating 
 | Python analysis | pandas, NumPy, SciPy, scikit-learn, statsmodels, Matplotlib and Seaborn |
 | Data practice | Cleaning, quality checks, reconciliation, exploratory analysis, reproducibility and clear documentation |
 
-## Training & Development
-
-I am documenting my learning journey at Sparta Global, connecting new concepts with practical exercises and the data skills demonstrated in my portfolio.
-
-**[Explore my Sparta Global training notes →](https://github.com/miqyd0104/sparta-global-training)**
-
-A growing collection of personal notes, exercises, project write-ups and useful references. The repository is ready for my first training notes.
-
 ## More Work
 
 - [Bike Sales Excel Dashboard](https://github.com/miqyd0104/Bike-Sales-Excel-Dashboard-Project) — cleaned 1,026 customer rows into 1,000 validated records and built a filterable dashboard using PivotTables, PivotCharts and slicers.
