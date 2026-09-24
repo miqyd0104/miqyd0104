@@ -4,7 +4,11 @@
 
 <h1 align="center">Syed Miqdad Hamdani</h1>
 
-<p align="center"><strong>Junior Data Analyst · Power BI · SQL · Excel · Python</strong></p>
+<p align="center">
+  <a href="https://www.spartaglobal.com/"><img src="assets/sparta-global-role.svg" alt="Junior Data Consultant at Sparta Global" width="100%"></a>
+</p>
+
+<p align="center"><strong>Power BI · SQL · Excel · Python</strong></p>
 
 <p align="center">I turn raw data into accurate, decision-ready analysis through clear dashboards, reliable data workflows and concise reporting.</p>
 
@@ -13,11 +17,11 @@
   <a href="mailto:miqdad_hamdani@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email me"></a>
 </p>
 
-<p align="center">United Kingdom · Open to junior Data Analyst, Reporting Analyst and BI Analyst opportunities</p>
+<p align="center">United Kingdom · Junior Data Consultant at Sparta Global</p>
 
 ## Profile
 
-I am an early-career data professional focused on turning detailed, imperfect information into reports people can trust. My portfolio covers business-intelligence dashboards, operational Excel controls, MySQL data cleaning and analysis, and reproducible Python research.
+I am a **Junior Data Consultant at [Sparta Global](https://www.spartaglobal.com/)**, a technology consultancy that helps organisations build capability across data, AI and technology. I focus on turning detailed, imperfect information into reports people can trust. My portfolio covers business-intelligence dashboards, operational Excel controls, MySQL data cleaning and analysis, and reproducible Python research.
 
 I work across the full analytical cycle: understanding the question, validating and transforming the data, investigating patterns, checking the result, and communicating the answer clearly. Each featured repository includes the working files, methodology, findings and limitations—not just a finished screenshot.
 
@@ -68,6 +72,14 @@ I work across the full analytical cycle: understanding the question, validating 
 | Python analysis | pandas, NumPy, SciPy, scikit-learn, statsmodels, Matplotlib and Seaborn |
 | Data practice | Cleaning, quality checks, reconciliation, exploratory analysis, reproducibility and clear documentation |
 
+## Training & Development
+
+I am documenting my learning journey at Sparta Global, connecting new concepts with practical exercises and the data skills demonstrated in my portfolio.
+
+**[Explore my Sparta Global training notes →](https://github.com/miqyd0104/sparta-global-training)**
+
+A growing collection of personal notes, exercises, project write-ups and useful references. The repository is ready for my first training notes.
+
 ## More Work
 
 - [Bike Sales Excel Dashboard](https://github.com/miqyd0104/Bike-Sales-Excel-Dashboard-Project) — cleaned 1,026 customer rows into 1,000 validated records and built a filterable dashboard using PivotTables, PivotCharts and slicers.
@@ -75,7 +87,7 @@ I work across the full analytical cycle: understanding the question, validating 
 
 ---
 
-<p align="center"><strong>Looking for a junior analyst who values accuracy, traceability and clear communication?</strong></p>
+<p align="center"><strong>Let’s connect about data, technology and continuous learning.</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-miqdad-hamdani/">Connect on LinkedIn</a> ·
