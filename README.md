@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/profile-banner.png" alt="Abstract data analytics landscape with charts, tables and connected databases" width="100%">
-</p>
-
 <h1 align="center">Syed Miqdad Hamdani</h1>
 
 <p align="center">
