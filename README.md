@@ -15,13 +15,28 @@
 
 <p align="center">United Kingdom · Junior Data Consultant at Sparta Global</p>
 
-## Profile
+## Professional Experience & Training
 
-I am a **Junior Data Consultant at [Sparta Global](https://www.spartaglobal.com/)**, a technology consultancy that helps organisations build capability across data, AI and technology. I focus on turning detailed, imperfect information into reports people can trust. My portfolio covers business-intelligence dashboards, operational Excel controls, MySQL data cleaning and analysis, and reproducible Python research.
+### Junior Data Consultant · Sparta Global
 
-I work across the full analytical cycle: understanding the question, validating and transforming the data, investigating patterns, checking the result, and communicating the answer clearly. Each featured repository includes the working files, methodology, findings and limitations—not just a finished screenshot.
+I am employed as a **Junior Data Consultant at [Sparta Global](https://www.spartaglobal.com/)** and am currently in **week 4 of an eight-week training programme**, preparing for client deployment.
+
+My current focus is building a documented record of what I learn and apply: clear technical notes, practical exercises, project outputs and reflection on feedback. The training portfolio will grow throughout the programme as I add evidence of my development.
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/miqyd0104/data-606-syed">Data 606 · Sparta Global Training Portfolio</a></h3>
+      <p>Eight weekly sections for learning notes, exercises, projects and reflection, with a consistent structure for documenting methods, validation and results.</p>
+      <p><strong>Current stage:</strong> Week 4 of 8 · Repository structure ready; weekly evidence being added.</p>
+      <p><a href="https://github.com/miqyd0104/data-606-syed"><strong>Explore the training portfolio →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/miqyd0104/data-606-syed/tree/main/week-04">Current week</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Selected Projects
+
+Alongside my professional training, these personal, guided-learning and research projects demonstrate my work across dashboards, data quality, SQL analysis and Python research.
 
 <table>
   <tr>
