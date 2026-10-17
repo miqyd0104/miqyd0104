@@ -19,7 +19,7 @@
 
 ### Junior Data Consultant · Sparta Global
 
-I am employed as a **Junior Data Consultant at [Sparta Global](https://www.spartaglobal.com/)** and am currently in **week 4 of an eight-week training programme**, preparing for client deployment.
+I am employed as a **Junior Data Consultant at [Sparta Global](https://www.spartaglobal.com/)** and am currently in **week 5 of an eight-week training programme**, preparing for client deployment.
 
 My current focus is building a documented record of what I learn and apply: clear technical notes, practical exercises, project outputs and reflection on feedback. The training portfolio will grow throughout the programme as I add evidence of my development.
 
