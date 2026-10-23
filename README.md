@@ -28,7 +28,7 @@ My current focus is building a documented record of what I learn and apply: clea
     <td>
       <h3><a href="https://github.com/miqyd0104/data-606-syed">Data 606 · Sparta Global Training Portfolio</a></h3>
       <p>Eight weekly sections for learning notes, exercises, projects and reflection, with a consistent structure for documenting methods, validation and results.</p>
-      <p><strong>Current stage:</strong> Week 5 of 8 · Repository structure ready; weekly evidence being added.</p>
+      <p><strong>Current stage:</strong> Week 6 of 8 · Repository structure ready; weekly evidence being added.</p>
       <p><a href="https://github.com/miqyd0104/data-606-syed"><strong>Explore the training portfolio →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/miqyd0104/data-606-syed/tree/main/week-04">Current week</a></p>
     </td>
   </tr>
